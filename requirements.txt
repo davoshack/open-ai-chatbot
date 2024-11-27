@@ -4,6 +4,13 @@ openai==1.55.1
 # LangChain
 langchain
 langchain-community
+langchain-experimental
+
+
+transformers 
+einops 
+accelerate
+unstructured
 
 pypdf
 chromadb
