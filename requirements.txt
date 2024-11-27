@@ -1,6 +1,12 @@
 # OpenAI
 openai==1.55.1
 
+# LangChain
+langchain
+langchain-community
+
+pypdf
+chromadb
 python-dotenv==1.0.0
 tiktoken
 numpy
